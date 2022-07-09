@@ -1,0 +1,15 @@
+[submodule "test_hugo/themes/tale"]
+	path = test_hugo/themes/tale
+	url = https://github.com/EmielH/tale-hugo.git
+[submodule "test_hugo/ga-hugo-theme"]
+	path = test_hugo/ga-hugo-theme
+	url = https://github.com/giraffeacademy/ga-hugo-theme
+[submodule "ga-hugo-theme"]
+	path = ga-hugo-theme
+	url = https://github.com/giraffeacademy/ga-hugo-theme.git
+[submodule "ElmeuLLoc/ga-hugo-theme"]
+	path = ElmeuLLoc/ga-hugo-theme
+	url = https://github.com/giraffeacademy/ga-hugo-theme.git
+[submodule "ElmeuLLoc/themes/ga-hugo-theme"]
+	path = ElmeuLLoc/themes/ga-hugo-theme
+	url = https://github.com/giraffeacademy/ga-hugo-theme.git
